@@ -28,8 +28,21 @@ __Procedure__:
 6) Coherent demodulation (multiply by synchronized carrier)
 7) Low-pass filter to recover message
 
-   __Tabulation__:
+__Program__:
 
-   __Output__:
+<img width="509" height="518" alt="504845201-afc7018c-e917-4f1a-8186-fcb86f4fe675" src="https://github.com/user-attachments/assets/b42db692-6a4a-4061-9185-5aa6d10c003b" />
+   
+__Tabulation__:
 
-   __Result__:
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/d5cdb57d-b6f5-4102-a61e-50fc7557fb23" />
+
+
+__Output__:
+
+<img width="890" height="600" alt="image" src="https://github.com/user-attachments/assets/5488d100-8f71-4448-b499-d2d8f4672998" />
+
+__Result__:
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/2fcca174-b784-43fe-b7d7-66f35ad9cc3f" />
+
+
